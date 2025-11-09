@@ -16,5 +16,10 @@
         "key": "ni",
         "expirydate": "15-06-2026",
         "Allowoffline": false
-    }
+    },
+      {
+        "device_id": "64100fcf53dec7ba",
+        "key": "x9",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
 ]
