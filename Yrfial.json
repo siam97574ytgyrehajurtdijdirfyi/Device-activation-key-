@@ -41,4 +41,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "332115ff4da97b0e",
+        "key": "xc",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
